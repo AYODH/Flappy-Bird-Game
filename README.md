@@ -18,7 +18,8 @@ This project is a simple implementation of the classic Flappy Bird game using Ja
 
 ## Screenshots
 
-(Include some screenshots or GIFs of the game in action)
+![Flappy Bird Gameplay](./src/ezgif-2-d54c098fa8.gif)
+
 
 ## Development
 
